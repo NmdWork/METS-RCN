@@ -2,7 +2,7 @@
   "@context": {
     "@vocab": "https://schema.org/"
   },
-  "@id": "https://github.com/NmdWork/METS-RCN/edit/main/Examples/Datasets/timeSeriesProduct-dataset.json#L5C2",
+  "@id": "https://github.com/NmdWork/METS-RCN/blob/main/Examples/Datasets/timeSeriesProduct-dataset.json#L5C2",
   "@type": "Dataset",
   "name": "Time-Series Data Synthesis Product",
   "description": "Synthesis of ship-based biogeochemical time-series stations.",
