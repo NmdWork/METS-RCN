@@ -3,7 +3,7 @@
         "@vocab": "https://schema.org/"
     },
     "@type": "EventSeries",
-    "@id": "https://pidOfThisJsonLDdoc.org/",
+    "@id": "https://github.com/NmdWork/METS-RCN/blob/main/Examples/Events/owsm-event.json",
     "name": "Ocean Weather Station Mike Bottle Data",
     "description":"Time series of inorganic carbon, alkalinity, and hydrography from the fixed station Ocean Weather Station M (OWSM) in the Norwegian Sea at 66 degree N 2 degree E.",
     "url": "",
