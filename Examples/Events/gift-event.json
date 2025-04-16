@@ -3,7 +3,7 @@
         "@vocab": "https://schema.org/"
     },
     "@type": "EventSeries",
-    "@id": "https://pidOfThisJsonLDdoc.org/",
+    "@id": "https://github.com/NmdWork/METS-RCN/blob/main/Examples/Events/gift-event.json",
     "name": "GIFT Niskin Bottles at staions G1, G2 and G3",
     "description":"Hydrographic and carbon system parameters in the Strait of Gibraltar.",
     "url": "",
