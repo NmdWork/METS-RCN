@@ -2,6 +2,7 @@
   "@context": {
     "@vocab": "https://schema.org/"
   },
+  "@id": "https://github.com/NmdWork/METS-RCN/edit/main/Examples/Datasets/timeSeriesProduct-dataset.json#L5C2",
   "@type": "Dataset",
   "name": "Time-Series Data Synthesis Product",
   "description": "Synthesis of ship-based biogeochemical time-series stations.",
@@ -14,7 +15,7 @@
     "@type": "Dataset",
     "name": "ALOHA dataset niskin bottle (look at doi )",
     "publisher": "Biological and Chemical Oceanography Data Management Office",
-    "identifier": "https://doi.org/10.1575/1912/bco-dmo.3773.1"
+    "identifiegithub.com/NmdWork/METS-RCN/edit/main/Examples/Datasets/timeSeriesProduct-dataset.json#L5C2r": "https://doi.org/10.1575/1912/bco-dmo.3773.1"
     },
     {  
       "@type": "Dataset",
