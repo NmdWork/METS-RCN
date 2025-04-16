@@ -3,7 +3,7 @@
         "@vocab": "https://schema.org/"
     },
     "@type": "EventSeries",
-    "@id": "https://pidOfThisJsonLDdoc.org/",
+    "@id": "https://github.com/NmdWork/METS-RCN/blob/main/Examples/Events/dyfamed-event.json",
     "name": "DYFAMED Niskin Bottles",
     "description":"DYFAMED (Ligurian Sea) performs since 1991 a monthly multidisciplinary monitoring to observe: 1) the evolution of the water mass properties (LIW and WMDW), 2) the carbon export change and 3) the variability of the biological species relative to climate forcing (temperature, acidification).",
     "url": "",
