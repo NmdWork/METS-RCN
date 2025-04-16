@@ -3,7 +3,7 @@
         "@vocab": "https://schema.org/"
     },
     "@type": "EventSeries",
-    "@id": "https://pidOfThisJsonLDdoc.org/",
+    "@id": "https://github.com/NmdWork/METS-RCN/edit/main/Examples/Events/cvoo-event.json",
     "name": "CVOO Niskin Bottles",
     "description":"Hydrographic measuremenst at the Cape Verde Ocean Observatory (CVOO).",
     "url": "",
