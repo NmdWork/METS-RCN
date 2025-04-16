@@ -3,7 +3,7 @@
         "@vocab": "https://schema.org/"
     },
     "@type": "EventSeries",
-    "@id": "https://pidOfThisJsonLDdoc.org/",
+    "@id": "https://github.com/NmdWork/METS-RCN/edit/main/Examples/Events/k2-event.json",
     "name": "K2 Niskin Bottles",
     "description":"Hydrographic measuremenst at the Kyodo North Pacific Ocean Time-series station (K2). The scientific focus of the program at K2 is the seasonal carbon cycle.",
     "url": "",
