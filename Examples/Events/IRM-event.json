@@ -3,7 +3,7 @@
         "@vocab": "https://schema.org/"
     },
     "@type": "EventSeries",
-    "@id": "https://pidOfThisJsonLDdoc.org/",
+    "@id": "https://github.com/NmdWork/METS-RCN/edit/main/Examples/Events/IRM-event.json",
     "name": "IrmingerSea Time-Series Station FX9 Bottle Data",
     "description":"Time series data of total alkalinity, dissolved inorganic carbon, partial CO2 pressure, inorganic nutrients, salinity and temperature collected from discrete samples and profile observations in the North Atlantic Ocean for monitoring carbonate chemistry in icelandic waters.",
     "url": "",
