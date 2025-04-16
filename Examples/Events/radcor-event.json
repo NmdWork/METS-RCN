@@ -3,7 +3,7 @@
         "@vocab": "https://schema.org/"
     },
     "@type": "EventSeries",
-    "@id": "https://pidOfThisJsonLDdoc.org/",
+    "@id": "https://github.com/NmdWork/METS-RCN/blob/main/Examples/Events/radcor-event.json",
     "name": "RADCOR Niskin Bottles",
     "description":"Hydrographic measuremenst at all three stations of A Coruñna RADIALES (RADCOR). The overarching RADIALES program consists on monthly multidisciplinary perpendicular sections covering the Cantabrian Sea and northwest coastal and neritic Spanish ocean.",
     "url": "",
