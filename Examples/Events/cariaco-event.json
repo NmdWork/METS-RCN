@@ -3,7 +3,7 @@
         "@vocab": "https://schema.org/"
     },
     "@type": "EventSeries",
-    "@id": "https://pidOfThisJsonLDdoc.org/",
+    "@id": "https://github.com/NmdWork/METS-RCN/edit/main/Examples/Events/cariaco-event.json",
     "name": "CARIACO Niskin Bottles",
     "description":"The CARIACO Ocean Time-Series Program (formerly known as CArbon Retention In A Colored Ocean) started on November 1995 (CAR-001) and ended on January 2017 (CAR-232). Monthly cruises were conducted to the CARIACO station (10.50° N, 64.67° W) onboard the R/V Hermano Ginés of the Fundación La Salle de Ciencias Naturales de Venezuela. During each cruise, a minimum of four hydrocasts were performed to collect a suite of core monthly observations. We conducted separate shallow and deep casts to obtain a better vertical resolution of in-situ Niskin-bottles samples for chemical observations, and for productivity, phytoplankton, and pigment observations.",
     "url": "",
