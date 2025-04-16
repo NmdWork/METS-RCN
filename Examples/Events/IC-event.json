@@ -3,7 +3,7 @@
         "@vocab": "https://schema.org/"
     },
     "@type": "EventSeries",
-    "@id": "https://github.com/NmdWork/METS-RCN/edit/main/Examples/Events/IC-event.json",
+    "@id": "https://github.com/NmdWork/METS-RCN/blob/main/Examples/Events/IC-event.json",
     "name": "Iceland Time-Series Station LN6 Bottle Data",
     "description":"Time series data of total alkalinity, dissolved inorganic carbon, partial CO2 pressure, inorganic nutrients, salinity and temperature collected from discrete samples and profile observations in the North Atlantic Ocean for monitoring carbonate chemistry in icelandic waters.",
     "url": "",
