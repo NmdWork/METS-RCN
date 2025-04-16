@@ -6,7 +6,7 @@
   "@type": "Dataset",
   "name": "Time-Series Data Synthesis Product",
   "description": "Synthesis of ship-based biogeochemical time-series stations.",
-  "url": "",
+  "url": "https://www.bco-dmo.org/dataset/896862",
   "sameAs": "https://www2.whoi.edu/site/mets-rcn/",
   "version": "2022-03-01",
   "keywords": ["ALOHA", "CARIACO","KNOT","K2","CVOO","Munida","RADCO","GIFT","DYFAMED","IrmingerSea","IcelandSea","OWSM", "Niskin Bottles", "Biogeochemistry"],
